@@ -1,11 +1,27 @@
 ---
 toc: false
+about:
+  template: trestles
+  links:
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/matthew-sj-woo/
+      - icon: github
+        text: Github
+        url: https://github.com/seungjinni
+      - icon: instagram
+        text: Instagram
+        url: https://www.instagram.com/seungjin_woo/
+      - icon: inbox-fill
+        text: Email
+        url: "mailto:seungjinni@g.ucla.edu"
+        
+image: Matthew Woo Profile Picture.jpeg
 ---
 
-
+## Heading 1
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+Attached is my current [CV](/docs/CV/CV.pdf "CV")
+
