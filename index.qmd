@@ -19,9 +19,7 @@ about:
 image: Matthew Woo Profile Picture.jpeg
 ---
 
-## Heading 1
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Welcome to Matthew Woo's Personal Website
 
 Attached is my current [CV](/docs/CV/CV.pdf "CV")
 

@@ -1,9 +1,1 @@
----
-title: "About"
----
-
-About this site
-
-```{r}
-1 + 1
-```
+My name is Matthew Woo, and I am currently a senior at the University of California, Los Angeles, pursuing a degree in Statistics and Data Science. Alongside my academic endeavors, I serve as an Army Reservist, fulfilling my duties at the Battle Assembly held at March Airbase in Riverside, California.

@@ -8,6 +8,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: Work.qmd
+        text: Relevant Work
 
 format:
   html:
@@ -15,8 +17,8 @@ format:
     css: styles.css
     toc: true
     
-page-footer:
-  right: "&copy; 2024, Matthew Woo"
+  page-footer:
+    right: "&copy; 2024, Matthew Woo"
     
 execute:
   freeze: auto
